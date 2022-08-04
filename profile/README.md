@@ -1,6 +1,8 @@
+![project logo](https://didip.hypotheses.org/files/2022/05/didip_sm-300x134.png)
+
 This is the public code repository of the ERC Advanced Grant (101019327) project "From Digital to Distant Diplomatics" (https://didip.eu)
 
-![project logo](https://didip.hypotheses.org/files/2022/05/didip_sm-300x134.png)
+
 ![ERC logo](https://didip.hypotheses.org/files/2022/04/LOGO_ERC-FLAG_EU_-300x133.jpg)
 ![Uni Graz logo](https://static.uni-graz.at/typo3conf/ext/unigraz/Resources/Public/Icons/UniGraz/Header/universitaet_graz_logo_signet.svg)
 
